@@ -15,5 +15,8 @@
 
 /** @type {typeof import('@adonisjs/framework/src/Route/Manager')} */
 const Route = use('Route')
+const Event = use('Event')
 
 Route.on('/').render('welcome')
+
+Route.post('/sendNotification','NotificationController.sendNotification').as('sendNotification')
