@@ -12,7 +12,7 @@ Make sure you have `npm` and `yarn` on your local machine
 2.  Run `yarn` or `npm install` to download dependencies
 3.  Set up your [pusher account](https://dashboard.pusher.com/accounts/sign_up)
 4.  Execute `adonis serve --dev` to run the project in your browser
-5.  See the [tutorial](https://pusher.com/tutorials/search-laravel-vue) for useful notes 
+5.  See the [tutorial](https://pusher.com/tutorials/push-notifications-adonis) for useful notes 
 
 ### Prerequisites
 
